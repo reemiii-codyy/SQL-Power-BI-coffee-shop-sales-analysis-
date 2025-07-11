@@ -1,24 +1,35 @@
-### 📈 Power BI Dashboard Overview
-
+📈 Power BI Dashboard Overview
 The Power BI dashboard provides a clear and interactive visual representation of the coffee shop’s sales performance. It is designed to support data-driven decision-making by summarizing KPIs and trends in a user-friendly interface.
 
-#### 🔹 Key Features:
-- **Dynamic Filters**: Select specific months, store locations, or product categories.
-- **KPIs Section**:
-  - Total Sales
-  - Total Orders
-  - Quantity Sold
-  - Month-over-Month (MoM) Growth
-- **Trend Analysis**:
-  - Daily sales trend line for selected month
-  - Sales vs. Average comparison
-- **Category Breakdown**:
-  - Sales by product category and top 10 products
-  - Sales by store location
-- **Time-Based Insights**:
-  - Hourly sales trends
-  - Weekday vs. weekend performance
-  - Day-of-week breakdown
+🔹 Key Features:
+Dynamic Filters: Select specific months, store locations, or product categories.
 
-#### 📎 File:
-- `coffee_shop_dashboard.pbix`: The Power BI Desktop file containing all visuals and calculations.
+KPIs Section:
+
+Total Sales
+
+Total Orders
+
+Quantity Sold
+
+MoM Growth Indicators
+
+Trend Analysis:
+
+Daily sales trend line for selected month
+
+Sales vs. Average comparison
+
+Category Breakdown:
+
+Sales by product category and top products
+
+Sales by store location
+
+Time-Based Insights:
+
+Hourly sales trends
+
+Weekday vs. weekend performance
+
+Day-of-week breakdown
