@@ -1,0 +1,73 @@
+# Sales Analytics Dashboard
+
+A business intelligence solution for analyzing sales performance through interactive visualizations and KPIs.
+
+## Features
+- Monthly KPI tracking (Sales, Orders, Quantity)
+- Interactive calendar heatmap
+- Temporal sales pattern analysis
+- Product and location performance insights
+
+## Documentation
+- [Problem Statement](./docs/PROBLEM_STATEMENT.md)
+- [KPI Requirements](./requirements/kpi_requirements.md)
+- [Visualization Requirements](./requirements/visualization_requirements.md)
+
+## Technologies
+- Power BI/Tableau (or specify your tech stack)
+- Python/R for data processing (if applicable)
+- SQL database (if applicable)
+
+# Problem Statement
+
+## Business Context
+Our organization requires a comprehensive sales analytics solution to monitor performance, identify trends, and support data-driven decision making. The current manual reporting processes are time-consuming and lack interactive exploration capabilities.
+
+## Solution Requirements
+The proposed dashboard must provide:
+1. Key performance indicators with month-over-month comparisons
+2. Interactive visualizations of temporal sales patterns
+3. Product and location performance analysis
+4. Intuitive identification of outliers and trends
+
+
+# KPI Requirements
+
+## 1. Total Sales Analysis
+- Calculate monthly total sales figures
+- Determine month-on-month percentage change
+- Display absolute difference from previous month
+- Visual indicator for positive/negative trends
+
+## 2. Total Orders Analysis  
+- Compute total orders per month  
+- Track MoM order volume changes  
+- Show numerical order difference  
+
+## 3. Quantity Sold Analysis
+- Aggregate total products sold monthly
+- Measure quantity variations between months
+- Present unit difference comparison
+
+# Visualization Requirements
+
+## Temporal Analysis
+1. Calendar Heatmap
+   - Interactive month selection
+   - Color-coded daily sales intensity
+   - Hover tooltips with metrics
+
+2. Daily/Weekly Patterns
+   - Weekday vs weekend comparison
+   - Daily sales with average line
+   - Day-hour sales heatmap
+
+## Product/Location Analysis
+1. Product Performance
+   - Category contribution breakdown
+   - Top 10 products ranking
+
+2. Store Analysis
+   - Location performance comparison
+   - MoM difference metrics
+   - Geographical trends
